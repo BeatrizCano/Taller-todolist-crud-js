@@ -1,0 +1,46 @@
+T7 CRUD con local storage JS
+
+OBJETIVO DE TALLER
+
+Desarrollar conocimientos suficientes para el uso de javascript
+en páginas webs dinámicas
+
+● Gestionar eventos asociados al localStorage para almacenar datos de forma
+temporal,
+● Fomentar el uso de objetos .JSON para almacenar y recuperar datos en el Local
+Storage.
+
+Vamos a llevar esta experiencia a otro nivel, vas a crear una aplicación web
+de lista de tareas (Todo List) que permita a los usuarios ingresar y
+administrar sus tareas de manera sencilla y efectiva.
+Una de las características clave de esta aplicación será su capacidad para
+almacenar las tareas localmente utilizando el LocalStorage del navegador.
+Esto significa que los datos de la lista de tareas se guardarán en el
+dispositivo del usuario, lo que garantiza que las tareas se persisten incluso
+después de cerrar el navegador o reiniciar el dispositivo.
+Esta funcionalidad proporciona una experiencia de usuario fluida y evita la
+pérdida de datos, permitiendo a los usuarios retomar su trabajo desde
+donde lo dejaron. Utiliza HTML, CSS básico y Javascript.
+¡Comencemos!
+DESCRIPCIÓN
+
+FUNCIONALIDADES BÁSICAS DE CRUD
+● La aplicación PERMITIRÁ al usuario crear/Create tareas,
+● La aplicación PERMITIRÁ al usuario ver/Read la lista de tareas,
+● La aplicación PERMITIRÁ al usuario editar/Update las tareas ingresadas previamente,
+● La aplicación PERMITIRÁ al usuario eliminar/Delete las tareas ingresadas previamente.
+● La aplicación PERMITIRÁ al usuario editar el estado de las tareas ingresadas previamente,
+● Las tareas DEBEN tener dos estados (ToDo- Done),
+INTERFAZ
+● De libre elección, pero simple en los estilos. En este taller NO es importante la ESTËTICA, sino más bien la
+funcionalidad.
+FUNCIONES EXTRA
+● La aplicación DEBE permitir al usuario filtrar por estado,
+● La aplicación DEBE permitir al usuario categorizar las tareas (Casa, Trabajo, Estudio),
+● La aplicación DEBE permitir al usuario eliminar más de una tarea a la vez,
+T7 CRUD con local storage JS
+
+EJEMPLO
+● https://www.youtube.com/watch?v=6eFwtaZf6zc
+LocalStorage
+● https://developer.mozilla.org/es/docs/Web/API/Window/localStorage
